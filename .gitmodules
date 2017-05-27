@@ -4,3 +4,6 @@
 [submodule "toy_app"]
 	path = toy_app
 	url = https://github.com/anirbanmu/Rails-Tutorial-Toy-App.git
+[submodule "sample_app"]
+	path = sample_app
+	url = https://github.com/anirbanmu/Rails-Tutorial-Sample-App.git
